@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>puc-goias.svg</file>
+        <file>lupa.png</file>
+        <file>inserir.png</file>
+        <file>myPhoto.jpg</file>
+        <file>saida.png</file>
+    </qresource>
+</RCC>
